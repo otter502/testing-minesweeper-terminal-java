@@ -1,0 +1,14 @@
+
+2d grid
+
+display
+
+interaction
+
+interaction effecting grid which effects display
+
+
+rules:
+each grid should store several values: isBomb, isFlagged, isRevealed, surround count.
+
+    
